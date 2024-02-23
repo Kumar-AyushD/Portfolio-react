@@ -1,0 +1,18 @@
+[
+  {
+    "title": "MERN-BLOG",
+    "imageSrc": "projects/blog.png",
+    "description": "This Project is made where Blogs are written and users comment and like blogs",
+    "skills": ["MERN", "Tailwind", "Firebase"],
+    "site": "https://blog-ayush.onrender.com/",
+    "source": "https://github.com/Kumar-AyushD/MERN-BLOG"
+  },
+  {
+    "title": "MERN-ESTATE",
+    "imageSrc": "projects/estate.png",
+    "description": "This is a website where users can buy,rent and sell their properties.",
+    "skills": ["MERN", "Tailwind", "Firebase"],
+    "site": "https://ayush-estate.onrender.com/",
+    "source": "https://github.com/Kumar-AyushD/MERN-ESTATE"
+  }
+]

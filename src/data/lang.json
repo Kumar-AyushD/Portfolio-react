@@ -1,0 +1,14 @@
+[
+  {
+    "title": "C/C++",
+    "imageSrc": "langs/cpp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "langs/python.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "langs/java.png"
+  }
+]
