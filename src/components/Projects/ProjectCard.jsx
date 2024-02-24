@@ -4,7 +4,7 @@ import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, site, source },
 }) => {
   return (
     <div className={styles.container}>
@@ -25,10 +25,10 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        <a href={site} target="_blank" className={styles.link}>
           Site
         </a>
-        <a href={source} className={styles.link}>
+        <a href={source} target="_blank" className={styles.link}>
           Github 
         </a>
       </div>
